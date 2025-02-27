@@ -1,0 +1,7 @@
+C:\Users\Fellype\source\repos\Conversor Sistemas de Numeracao\Conversor Sistemas de Numeracao\bin\Debug\Conversor Sistemas de Numeracao.exe.config
+C:\Users\Fellype\source\repos\Conversor Sistemas de Numeracao\Conversor Sistemas de Numeracao\bin\Debug\Conversor Sistemas de Numeracao.exe
+C:\Users\Fellype\source\repos\Conversor Sistemas de Numeracao\Conversor Sistemas de Numeracao\bin\Debug\Conversor Sistemas de Numeracao.pdb
+C:\Users\Fellype\source\repos\Conversor Sistemas de Numeracao\Conversor Sistemas de Numeracao\obj\Debug\Conversor Sistemas de Numeracao.csproj.AssemblyReference.cache
+C:\Users\Fellype\source\repos\Conversor Sistemas de Numeracao\Conversor Sistemas de Numeracao\obj\Debug\Conversor Sistemas de Numeracao.csproj.CoreCompileInputs.cache
+C:\Users\Fellype\source\repos\Conversor Sistemas de Numeracao\Conversor Sistemas de Numeracao\obj\Debug\Conversor Sistemas de Numeracao.exe
+C:\Users\Fellype\source\repos\Conversor Sistemas de Numeracao\Conversor Sistemas de Numeracao\obj\Debug\Conversor Sistemas de Numeracao.pdb
